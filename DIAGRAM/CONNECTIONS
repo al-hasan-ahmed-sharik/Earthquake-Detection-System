@@ -1,1 +1,25 @@
+1. Hardware Setup :
+● ESP32 Dev Module
+● MPU6050 Accelerometer
+● Buzzer
+● 5V Power Supply / USB Power
+● Jumper Wires / Breadboard
 
+2. Connection :
+
+MPU6050 → ESP32 via I²C
+● VCC → 3.3V
+● GND → GND
+● SDA → GPIO 21
+● SCL → GPIO 22
+
+Buzzer → GPIO 15 (or any digital pin)
+● Positive → GPIO
+● Negative → GND
+
+3. Install required libraries :
+● Wire.h
+● WiFi.h
+● WebServer.h
+● MPU6050.h
+● UniversalTelegramBot.h
