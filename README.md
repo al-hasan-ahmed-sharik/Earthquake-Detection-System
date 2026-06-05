@@ -54,3 +54,8 @@ ESP32-based IoT earthquake detection system using MPU6050 accelerometer, Telegra
 
 Al Hasan Ahmed Sharik
 
+Department of Mechanical Engineering
+
+Ahsanullah University of Science and Technology(AUST)
+
+
