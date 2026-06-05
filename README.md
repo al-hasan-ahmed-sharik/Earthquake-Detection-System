@@ -34,6 +34,15 @@ ESP32-based IoT earthquake detection system using MPU6050 accelerometer, Telegra
    * Dashboard status changes to Alert
 4. Live sensor data is displayed through the web interface.
 
+## Dashboard :
+
+<img width="753" height="404" alt="dashboard" src="https://github.com/user-attachments/assets/480174f3-fbc5-4dce-a7cd-a1557f678a63" />
+
+## Telegram :
+
+<img width="577" height="347" alt="telegram" src="https://github.com/user-attachments/assets/24f94a7b-c6e1-457d-a121-72784e7c1694" />
+
+
 ## Applications
 
 * Smart Homes
